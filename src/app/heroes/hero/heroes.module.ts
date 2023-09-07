@@ -9,11 +9,11 @@ import { ListComponent } from '../list/list.component';
 @NgModule({
 declarations: [
     HeroComponent,
-    ListComponent
+    //ListComponent
 ],
 exports : [
     HeroComponent,
-    ListComponent
+    //ListComponent
 ],
 imports: [
     CommonModule
